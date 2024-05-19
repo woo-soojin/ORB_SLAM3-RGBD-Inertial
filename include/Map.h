@@ -29,7 +29,7 @@
 
 #include <boost/serialization/base_object.hpp>
 
-
+#define CV_LOAD_IMAGE_UNCHANGED -1
 namespace ORB_SLAM3
 {
 
